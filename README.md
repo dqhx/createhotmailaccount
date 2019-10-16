@@ -1,3 +1,4 @@
+# Hotmail sign up 
 Hotmail is an email service which is provided completely free of charge, allowing people to create an account simply with high security features. You want to [create a Hotmail account](https://hotmaill.live/#hotmail-sign-up) to use and access to the applications page of Microsoft? 
  
 These are introductions on how to create a Hotmail account for people to whom Hotmail is still new thing. 
@@ -28,7 +29,7 @@ In the white box you enter the verification code you see in the image above.
 After entering all information above, you choose Create account.
 Notify of having successfully created your account appears.
 
-# How to [login to Hotmail](https://hotmaill.live/#hotmail-login)?
+## How to [login to Hotmail](https://hotmaill.live/#hotmail-login)?
  
 So, you’ve created yourself a Hotmail account, to access to Hotmail, you access to [https://login.live.com/](https://login.live.com/)  and enter the username and password of the account you’ve sign up. After signing in, you can go to the Basic info to view or edit your information.
  
